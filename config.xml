@@ -23,4 +23,6 @@
         <allow-intent href="itms-apps:*" />
     </platform>
     <icon src="res/logo.png"/>
+    <preference name="AppendUserAgent" value="Mozilla/5.0 (Linux; Android 10) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.210 Mobile Safari/537.36" />
+    <preference name="OverrideUserAgent" value="Mozilla/5.0 (Linux; Android 10) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.210 Mobile Safari/537.36" />
 </widget>
