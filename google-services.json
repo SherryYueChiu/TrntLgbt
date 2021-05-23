@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "747728435948",
+    "project_id": "trntlgbt",
+    "storage_bucket": "trntlgbt.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:747728435948:android:74ca453e51ea418f0243c9",
+        "android_client_info": {
+          "package_name": "com.sherryyue.trntlgbt"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "747728435948-p9u43mgv0fud6d1okt05uai8t0ul86bi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBnsaIyE_3n9gAtGiLFo1U90S9vIZPVLmA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "747728435948-p9u43mgv0fud6d1okt05uai8t0ul86bi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
