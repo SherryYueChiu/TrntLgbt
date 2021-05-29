@@ -15,22 +15,16 @@
   "devDependencies": {
     "cordova-android": "^9.1.0",
     "cordova-browser": "^6.0.0",
-    "cordova-plugin-firebase-messaging": "^5.0.1",
-    "cordova-plugin-firebasex": "^12.1.0",
     "cordova-plugin-inappbrowser": "^5.0.0",
     "cordova-plugin-whitelist": "^1.3.4"
   },
   "cordova": {
     "plugins": {
       "cordova-plugin-whitelist": {},
-      "cordova-plugin-inappbrowser": {},
-      "cordova-plugin-firebase": {}
+      "cordova-plugin-inappbrowser": {}
     },
     "platforms": [
       "browser"
     ]
-  },
-  "dependencies": {
-    "cordova-plugin-firebase": "2.0.5"
   }
 }
