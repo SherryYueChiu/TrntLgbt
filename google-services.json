@@ -1,33 +1,33 @@
 {
   "project_info": {
-    "project_number": "747728435948",
-    "project_id": "trntlgbt",
-    "storage_bucket": "trntlgbt.appspot.com"
+    "project_number": "1060078682414",
+    "project_id": "trntlgbt-5362a",
+    "storage_bucket": "trntlgbt-5362a.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:747728435948:android:74ca453e51ea418f0243c9",
+        "mobilesdk_app_id": "1:1060078682414:android:0d3b3c2dfa0ce57fff7abf",
         "android_client_info": {
           "package_name": "com.sherryyue.trntlgbt"
         }
       },
       "oauth_client": [
         {
-          "client_id": "747728435948-p9u43mgv0fud6d1okt05uai8t0ul86bi.apps.googleusercontent.com",
+          "client_id": "1060078682414-43sc6iudd68m92hhuea96996a3k27svr.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyBnsaIyE_3n9gAtGiLFo1U90S9vIZPVLmA"
+          "current_key": "AIzaSyDkCd-SYuCJFgJ5gOLEh2feKhf6EEwO6jI"
         }
       ],
       "services": {
         "appinvite_service": {
           "other_platform_oauth_client": [
             {
-              "client_id": "747728435948-p9u43mgv0fud6d1okt05uai8t0ul86bi.apps.googleusercontent.com",
+              "client_id": "1060078682414-43sc6iudd68m92hhuea96996a3k27svr.apps.googleusercontent.com",
               "client_type": 3
             }
           ]
