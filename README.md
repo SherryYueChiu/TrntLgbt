@@ -1,5 +1,9 @@
-# 不明小站App
+# 不明小站
 
-- [Site Link](https://trnt.lgbt/)
+## Forum
 
-- [Apk Link](https://drive.google.com/file/d/1Dl7C5XiD3kiowI59j7_UuHHLLUAT3Pew/view?usp=sharing)
+[trnt.lgbt](https://trnt.lgbt/)
+
+## Download APP
+
+[Google Play](https://play.google.com/store/apps/details?id=com.trnt.istscare.bbs)
